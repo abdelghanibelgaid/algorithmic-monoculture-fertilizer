@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Reproducibility notebook for **Algorithmic Monoculture in Machine Learning-Based Site-Specific Fertilizer Recommendation**, submitted to the **Economics for Machine Learning (EconML) Workshop at NeurIPS 2026**.
+Reproducibility notebook for **Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation**, submitted to the **Economics for Machine Learning (EconML) Workshop at NeurIPS 2026**.
 
 ## Overview
 
@@ -94,7 +94,7 @@ The benchmark covers **nine model families** across **five Moroccan cereal syste
 |---|---:|---|
 | Common-error share, $\rho$ | 0.25 | Sensitivity assumption |
 | Externality weight, $\lambda$ | 20 | Illustrative sensitivity reference point |
-| Population normalization, \(n\) | 10,000 | Farms |
+| Population normalization, $n$ | 10,000 | Farms |
 | Private-risk regret cap, $\delta$ | 0.10 | Maximum 10% increase in average private predictive risk |
 | Candidate models | 3 | Lowest-risk model families per crop |
 
@@ -198,6 +198,7 @@ An internet connection is required to install the public packages and load the b
 ```text
 algorithmic-monoculture-fertilizer/
 ├── algorithmic-monoculture-fertilizer.ipynb
+├── LICENSE
 └── README.md
 ```
 
