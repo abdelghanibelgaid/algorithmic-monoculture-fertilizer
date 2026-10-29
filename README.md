@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://econml26-workshop.github.io/"><img src="https://img.shields.io/badge/NeurIPS%202026-EconML%20Workshop-6f42c1" alt="Venue"></a>
-  <a href="https://openreview.net/forum?id=cxXP3bI6LC"><img src="https://img.shields.io/badge/Paper-OpenReview-8c1b13" alt="OpenReview"></a>
+  <a href="https://arxiv.org/abs/2610.36941"><img src="https://img.shields.io/badge/arXiv-2610.36941-b31b1b.svg" alt="arXiv" /></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python">
   <a href="https://colab.research.google.com/github/abdelghanibelgaid/algorithmic-monoculture-fertilizer/blob/main/algorithmic-monoculture-fertilizer.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" alt="Jupyter">
